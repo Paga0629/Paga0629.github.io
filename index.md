@@ -4,7 +4,15 @@ title: Artificial Intelligence & Vision System Lab
 subtitle: We study modern AI systems related to human-computer interaction
 cover-img: /assets/img/itu-seokho-m4.jpg
 ---
+<style>
+.post-title {
+  font-size: 40px;  
+}
 
+.post-subtitle {
+  font-size: 20px;
+}
+</style>
 <br/>
 
 ## About me
