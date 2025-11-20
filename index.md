@@ -7,11 +7,11 @@ cover-img: /assets/img/itu-seokho-m4.jpg
 
 <style>
 .intro-header .page-heading {
-  max-width: 80%;    
+  max-width: 90%;    
 }
 
 .intro-header .page-heading h1 {
-  font-size: 4vw !important; 
+  font-size: 3.5vw !important; 
   line-height: 1.1;
 }
 
