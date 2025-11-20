@@ -6,12 +6,10 @@ cover-img: /assets/img/itu-seokho-m4.jpg
 ---
 
 <style>
-/* 제목 */
 .page-heading h1 {
   font-size: 6px !important;  
 }
 
-/* 부제목 */
 .page-subheading {
   font-size: 4px !important;   
 }
