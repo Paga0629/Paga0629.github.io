@@ -6,14 +6,17 @@ cover-img: /assets/img/itu-seokho-m4.jpg
 ---
 
 <style>
-.intro-header .container {
+.intro-header .container,
+.intro-header .row,
+.intro-header .page-heading {
+  display: flex;
+  flex-direction: column;
+  align-items: center;  
+  justify-content: center;
+  text-align: center;
   max-width: 100% !important;
   width: 100% !important;
-}
-
-.intro-header .page-heading {
-  width: 100%;
-  text-align: center;
+  margin: 0 auto;
 }
 
 .intro-header .page-heading h1 {
@@ -23,7 +26,7 @@ cover-img: /assets/img/itu-seokho-m4.jpg
 }
 
 .intro-header .page-heading .page-subheading {
-  font-size: 1.1vw !important; 
+  font-size: 1.1vw !important;
   white-space: nowrap !important;
 }
 </style>
