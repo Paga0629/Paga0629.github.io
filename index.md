@@ -7,16 +7,16 @@ cover-img: /assets/img/itu-seokho-m4.jpg
 
 <style>
 .intro-header .page-heading {
-  max-width: 80%;      /* 100%까지도 가능, 줄바꿈 줄이고 싶으면 숫자 키우기 */
+  max-width: 80%;    
 }
 
 .intro-header .page-heading h1 {
-  font-size: 4vw !important;   /* 화면 너비 기준(반응형), 너무 크면 3.5vw, 작으면 5vw 등 조절 */
+  font-size: 4vw !important; 
   line-height: 1.1;
 }
 
 .intro-header .page-heading .page-subheading {
-  font-size: 1.3vw !important; /* 1.2~1.6vw 사이에서 맞춰 보기 */
+  font-size: 1.3vw !important;
 }
 </style>
 
