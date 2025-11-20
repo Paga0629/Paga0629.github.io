@@ -1,7 +1,7 @@
 ---
 layout: page
-title: AIVS Lab
-subtitle: Artificial Intelligence Vision System Laboratory
+title: Artificial Intelligence & Vision System Lab
+subtitle: We study modern AI systems related to human-computer interaction
 cover-img: /assets/img/itu-seokho-m4.jpg
 ---
 
