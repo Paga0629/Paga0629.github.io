@@ -7,19 +7,22 @@ cover-img: /assets/img/itu-seokho-m4.jpg
 
 <style>
 .intro-header .page-heading {
-  max-width: 100%;    
+  max-width: 100%;
+  white-space: nowrap;    
+  text-align: center;
 }
 
 .intro-header .page-heading h1 {
-  font-size: 2.0vw !important; 
+  font-size: 2.2vw !important;  
   line-height: 1.1;
+  white-space: nowrap !important; 
 }
 
 .intro-header .page-heading .page-subheading {
-  font-size: 1.3vw !important;
+  font-size: 1.1vw !important;
+  white-space: nowrap !important;
 }
 </style>
-
 <br/>
 
 ## About me
