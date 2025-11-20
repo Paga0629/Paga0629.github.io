@@ -5,16 +5,6 @@ subtitle: We study modern AI systems related to human-computer interaction
 cover-img: /assets/img/itu-seokho-m4.jpg
 ---
 
-<style>
-.page-heading h1 {
-  font-size: 44px;  
-}
-
-.page-subheading {
-  font-size: 30px;   
-}
-</style>
-
 <br/>
 
 ## About me
