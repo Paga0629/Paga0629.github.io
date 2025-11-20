@@ -7,11 +7,11 @@ cover-img: /assets/img/itu-seokho-m4.jpg
 
 <style>
 .page-heading h1 {
-  font-size: 30px !important;  
+  font-size: 44px;  
 }
 
 .page-subheading {
-  font-size: 24px !important;   
+  font-size: 30px;   
 }
 </style>
 
