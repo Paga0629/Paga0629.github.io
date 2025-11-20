@@ -13,6 +13,7 @@ cover-img: /assets/img/itu-seokho-m4.jpg
 
 .intro-header .page-heading {
   width: 100%;
+  text-align: center;
 }
 
 .intro-header .page-heading h1 {
