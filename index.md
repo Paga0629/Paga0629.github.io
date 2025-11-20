@@ -6,27 +6,32 @@ cover-img: /assets/img/itu-seokho-m4.jpg
 ---
 
 <style>
-.intro-header .container,
-.intro-header .row,
-.intro-header .page-heading {
-  display: flex;
-  flex-direction: column;
-  align-items: center;  
-  justify-content: center;
-  text-align: center;
+.intro-header .container {
   max-width: 100% !important;
   width: 100% !important;
-  margin: 0 auto;
+  margin: 0 !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+.intro-header .row {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+.intro-header .page-heading {
+  width: 100%;
+  text-align: center;
 }
 
 .intro-header .page-heading h1 {
-  font-size: 2.2vw !important; 
+  font-size: 2.2vw !important;  
   line-height: 1.1;
   white-space: nowrap !important;
 }
 
 .intro-header .page-heading .page-subheading {
-  font-size: 1.1vw !important;
+  font-size: 1.1vw !important; 
   white-space: nowrap !important;
 }
 </style>
