@@ -2,7 +2,7 @@
 layout: page
 title: Artificial Intelligence & Vision System Lab
 subtitle: We study modern AI systems related to human-computer interaction
-cover-img: /assets/img/itu-seokho-m4.jpg
+cover-img: /assets/img/index_cover.jpg
 ---
 
 <style>
