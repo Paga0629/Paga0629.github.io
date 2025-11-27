@@ -6,21 +6,7 @@ cover-img: /assets/img/index_cover.jpg
 ---
 
 <style>
-.intro-header .container {
-  max-width: 100% !important;
-  width: 100% !important;
-  margin: 0 !important;
-  padding-left: 0 !important;
-  padding-right: 0 !important;
-}
-
-.intro-header .row {
-  margin-left: 0 !important;
-  margin-right: 0 !important;
-}
-
 .intro-header .page-heading {
-  width: 100%;
   text-align: center;
 }
 
