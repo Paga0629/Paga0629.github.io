@@ -11,7 +11,7 @@ cover-img: /assets/img/index_cover.jpg
 }
 
 .intro-header .page-heading h1 {
-  font-size: 50px;
+  font-size: 38px;
   line-height: 1.1;
   white-space: nowrap !important;
 }
