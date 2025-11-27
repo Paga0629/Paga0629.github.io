@@ -11,7 +11,7 @@ cover-img: /assets/img/index_cover.jpg
   width: 100% !important;
   margin: 0 !important;
   padding-left: 0 !important;
-  padding-right: 0 !important;
+  padding-right: 100 !important;
 }
 
 .intro-header .row {
