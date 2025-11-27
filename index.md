@@ -11,12 +11,12 @@ cover-img: /assets/img/index_cover.jpg
   width: 100% !important;
   margin: 0 !important;
   padding-left: 0 !important;
-  padding-right: 100 !important;
+  padding-right: 0 !important;
 }
 
 .intro-header .row {
   margin-left: 0 !important;
-  margin-right: 0 !important;
+  margin-right: 200 !important;
 }
 
 .intro-header .page-heading {
