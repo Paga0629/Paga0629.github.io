@@ -16,7 +16,7 @@ cover-img: /assets/img/index_cover.jpg
 
 .intro-header .row {
   margin-left: 0 !important;
-  margin-right: 200 !important;
+  margin-right: 0 !important;
 }
 
 .intro-header .page-heading {
