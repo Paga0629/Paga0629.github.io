@@ -40,7 +40,7 @@ He loves to bring new ideas and share it with collaborators. Hello world! &#1285
 ## Contact
 
 ```
-Affiliation: Cloud Computing SW Research Section, Future Computing Research Division, Artificial Intelligence Research Laboratory, Electronics and Telecommunications Research Institute (ETRI)
-Office: ETRI 7-563, 218, Gajeong-ro, Yuseong-gu, Daejeon, Republic of Korea
-Email: shsonkorea[at]etri.re.kr or shsongist[at]gmail.com
+Office: 세종특별자치시 세종로 2511 과학기술1관 204호
+Email: ygshin92@korea.ac.kr
+Call: 044-860-1351
 ```
