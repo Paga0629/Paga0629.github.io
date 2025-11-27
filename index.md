@@ -30,6 +30,12 @@ We study modern AI systems related to human-computer interaction.
 In particular, we are actively engaged in research and development in the fields of computer vision,
 image processing, AI-based generative models, and Intelligence AI agents.
 
+<p align="center">
+  <img src="/assets/img/research_introduction.jpg"
+       alt="AIVS Lab Research Areas"
+       style="max-width: 900px; width: 100%; height: auto; border-radius: 12px;">
+</p>
+
 ## Contact
 
 ```
