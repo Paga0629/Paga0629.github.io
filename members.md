@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Members
+title: Member
 tab: member
 ---
 {% include people-tabs.html %}
