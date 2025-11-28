@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Members
+tab: member
 ---
+{% include people-tabs.html %}
 
 <style>
   .intro-header .page-heading h1 {
