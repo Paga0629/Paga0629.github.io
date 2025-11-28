@@ -1,7 +1,10 @@
 ---
 layout: page
 title: Professor
+tab: professor
 ---
+
+{% include people-tabs.html %}
 
 <style>
   .intro-header .page-heading h1 {
