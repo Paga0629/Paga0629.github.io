@@ -24,21 +24,7 @@ layout: page
       {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
       Posted on {{ post.date | date: date_format }}
     </p>
-
-    <div class="post-entry-container">
-      {% if post.image %}
-      <div class="post-image">
-        <a href="{{ post.url | relative_url }}">
-          <img src="{{ post.image | relative_url }}">
-        </a>
-      </div>
-      {% endif %}
-      <div class="post-entry">
-        {% assign excerpt_length = site.excerpt_length | default: 50 %}
-        {{ post.excerpt | strip_html | xml_escape | truncatewords: excerpt_length }}
-      </div>
-    </div>
-
+    
    </article>
   {% endif %}
   {% endfor %}
