@@ -868,3 +868,7 @@ pre {
 .gist, .gist-file table tr td {
   border: unset;
 }
+
+a.btn.btn-primary.tag-btn {
+  display: none !important;
+}
