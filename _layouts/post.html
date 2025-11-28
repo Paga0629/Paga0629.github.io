@@ -31,12 +31,12 @@ layout: base
         </div>
       {% endif %}
 
-      <article role="main" class="blog-post">
+      <article role="main" class="board-post">
         {{ content }}
       </article>
 
       {% if page.tags.size > 0 %}
-        <div class="blog-tags">
+        <div class="board-tags">
           Tags:
           {% if site.link-tags %}
           {% for tag in page.tags %}
@@ -52,7 +52,7 @@ layout: base
         {% include social-share.html %}
       {% endif %}
 
-      <ul class="pagination blog-pager">
+      <ul class="pagination board-pager">
         {% if page.previous.url %}
         <li class="page-item previous">
           <a class="page-link" href="{{ page.previous.url | relative_url }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Previous Post</a>
