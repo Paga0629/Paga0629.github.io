@@ -528,51 +528,6 @@ footer .footer-custom-content {
   }
 }
 
-/* --- Tags --- */
-
-.board-tags {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  color: #999;
-  font-size: 0.9375rem;
-  margin-bottom: 1.875rem;
-}
-
-.board-tags a {
-  color: {{ site.link-col | default: "#008AFF" }};
-  text-decoration: none;
-  padding: 0 0.3125rem;
-}
-
-.board-tags a:hover {
-  border-radius: 2px;
-  color: {{ site.hover-col | default: "#0085A1" }};
-  background-color: #EEE;
-}
-
-.post-preview .board-tags {
-  margin-top: 0.3125rem;
-  margin-bottom: 0;
-}
-
-@media (min-width: 768px) {
-  .post-preview .board-tags {
-    margin-top: 0.625rem;
-  }
-}
-
-@media (max-width: 500px) {
-  .post-image, .post-image img {
-    height: 6.25rem;
-    width: 6.25rem;
-  }
-
-  .post-image {
-    width: 100%;
-    text-align: center;
-    margin-top: 0;
-    float: left;
-  }
-}
 /* --- Post and page headers --- */
 
 .intro-header {
