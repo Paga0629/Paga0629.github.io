@@ -3,6 +3,13 @@ layout: page
 title: Professor
 ---
 
+<style>
+  .intro-header .page-heading h1 {
+    font-size: 36px;
+    line-height: 1.2;
+  }
+</style>
+
 <br/>
 
 # Career & Education
