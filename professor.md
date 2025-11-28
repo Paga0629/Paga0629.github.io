@@ -5,14 +5,14 @@ title: Professor
 
 <style>
   .intro-header .page-heading h1 {
-    font-size: 36px;
+    font-size: 45px;
     line-height: 1.2;
   }
 </style>
 
 <br/>
 
-# Career & Education
+## Career & Education
 * _**Assistant Professor, Department of Electrical and Information Engineering, Korea University, 2023-(Current)**_
 * _**Assistant Professor, Department of Artificial Intelligence, Hannam University, 2020-2022**_
 * _**Ph.D., Department of Electrical Engineering, Korea University, 2020**_
@@ -20,7 +20,7 @@ title: Professor
 
 <br/>
 
-# Publications
+## Publications
 
 ### 23 International Journals (SCI/SCIE)
 * 5 papers are published in the top-class journals (JCR top 3%)
@@ -28,7 +28,7 @@ title: Professor
 
 <br/>
 
-# Award
+## Award
 
 * 2nd place in the AI Competition hosted by NIPA, 2022
 * Best Paper award in ICTC, 2022
