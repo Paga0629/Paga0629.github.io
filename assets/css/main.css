@@ -377,6 +377,20 @@ img {
   }
 }
 
+@media (min-width: 1200px)
+
+  .navbar-custom {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .navbar-custom .navbar-nav {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+}
+
 /* --- Footer --- */
 
 footer {
