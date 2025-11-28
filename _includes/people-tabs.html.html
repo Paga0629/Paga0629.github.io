@@ -1,10 +1,14 @@
-{% if site.gtag %}
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.gtag }}"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', '{{ site.gtag }}');
-</script>
-{% endif %}
+<div class="people-tabs">
+  <a href="{{ '/professor/' | relative_url }}"
+     class="people-tab {% if page.tab == 'professor' %}active{% endif %}">
+    Professor
+  </a>
+  <a href="{{ '/member/' | relative_url }}"
+     class="people-tab {% if page.tab == 'member' %}active{% endif %}">
+    Member
+  </a>
+  <a href="{{ '/alumni/' | relative_url }}"
+     class="people-tab {% if page.tab == 'alumni' %}active{% endif %}">
+    Alumni
+  </a>
+</div>
