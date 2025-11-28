@@ -3,6 +3,12 @@ layout: page
 title: Members
 ---
 
+<style>
+  .intro-header .page-heading h1 {
+    font-size: 45px;
+    line-height: 1.2;
+  }
+</style>
 
 I can also be found from [Google Scholar](https://scholar.google.com/citations?user=seokhoson) and [DBLP](https://dblp.uni-trier.de/pers/hd/s/Son:Seokho).
 
