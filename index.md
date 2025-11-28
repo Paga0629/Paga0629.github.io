@@ -26,9 +26,7 @@ cover-img: /assets/img/index_cover.jpg
 
 ## About AIVS Lab
 
-We study modern AI systems related to human-computer interaction.
-In particular, we are actively engaged in research and development in the fields of computer vision,
-image processing, AI-based generative models, and Intelligence AI agents.
+We study modern AI systems related to human-computer interaction. In particular, we are actively engaged in research and development in the fields of computer vision, image processing, AI-based generative models, and Intelligence AI agents.
 
 <p align="center">
   <img src="/assets/img/research_introduction.jpg"
